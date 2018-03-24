@@ -22,7 +22,7 @@ class Window(QtWidgets.QWidget):
         description.setWordWrap(True)
         ###################################
         description.setText(
-        " This program calculates probabilities that a random dice roll will result in resource gain for a village positions.\n\n"+
+        " This program calculates probabilities that a random dice roll will result in resource gain for each village position.\n\n"+
         " Enter the board setup and press the button to calculate probabilities.")
 
 
